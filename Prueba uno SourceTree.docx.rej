@@ -1,4 +1,4 @@
-diff a/Prueba uno SourceTree.docx b/Prueba uno SourceTree.docx	(rejected hunks)
+﻿diff a/Prueba uno SourceTree.docx b/Prueba uno SourceTree.docx	(rejected hunks)
 @@ -2,3 +3,4 @@
 +
  Novatech Sistemas de Mejoramiento Continua CIA LTDA.
@@ -6,3 +6,5 @@ diff a/Prueba uno SourceTree.docx b/Prueba uno SourceTree.docx	(rejected hunks)
  Ahora es la segunda línea para aprender a probar SourceTree
 
 Esta es una linea agregada desde GITHUB
+
+Ahora una linea desde SourceTree
